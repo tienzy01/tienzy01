@@ -8,7 +8,7 @@ I mainly work with C++ and build tools for working with game assets, rendering, 
 
 ---
 
-### 🛠️ Technologies
+### 🛠️ Technical Focus
 
 ##### 💻 Programming
 
