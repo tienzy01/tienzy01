@@ -1,10 +1,49 @@
-# Berka
+# 👋 Hi, I'm Tienzy
 
-Game developer focused on C++, graphics programming, and game tooling.
+### 🎮 Game Developer · 💻 C++ · 🎨 Graphics Programming
 
-Currently working on tools and technology for game asset analysis and
-real-time 3D rendering.
+I'm interested in **game development, real-time graphics, game tooling, and reverse engineering**.
 
-### Focus
+I mainly work with C++ and build tools for working with game assets, rendering, and content pipelines.
 
-C++ · OpenGL · Game Tools · Graphics · Reverse Engineering
+---
+
+### 🛠️ Technologies
+
+##### 💻 Programming
+
+* C++
+
+##### 🎨 Graphics & Game Development
+
+* OpenGL/DirectX
+* Unreal Engine
+* Blender
+
+##### 🔧 Areas of Interest
+
+* Real-time Rendering
+* Game Engines
+* Animation Systems
+* Asset Pipelines
+* Reverse Engineering
+* Game Tools
+
+---
+
+### 💭 Interests
+
+`C++`  · `Game Development` · `Graphics Programming`
+`Reverse Engineering` ·  `Asset Pipelines`
+
+---
+
+### 📫 Contact
+
+Feel free to reach out if you're interested in **game development, graphics programming, or game tooling**.
+
+---
+
+<p align="center">
+  <sub>🎮 Building tools to understand how games work.</sub>
+</p>
