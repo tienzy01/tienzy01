@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tienzy
+# 👋 Hi, I'm Berkan
 
 ### 🎮 Game Developer · 💻 C++ · 🎨 Graphics Programming
 
