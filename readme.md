@@ -17,18 +17,6 @@ I mainly work with C++ and build tools for working with game assets, rendering, 
 ##### 🎨 Graphics & Game Development
 
 * OpenGL/DirectX
-* Unreal Engine
-* Blender
-
-##### 🔧 Areas of Interest
-
-* Real-time Rendering
-* Game Engines
-* Animation Systems
-* Asset Pipelines
-* Reverse Engineering
-* Game Tools
-
 ---
 
 ### 💭 Interests
